@@ -1,0 +1,10 @@
+:root {
+    /*--savepage-url-3: url(https://i.imgur.com/UCW52jU.png) !important;*/
+    --savepage-url-10: url("images/logo.png") !important;
+}
+
+.story > p {
+    color: rgb(255, 255, 255) !important;
+}
+
+
